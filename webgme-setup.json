@@ -1,0 +1,14 @@
+{
+  "components": {
+    "routers": {}
+  },
+  "dependencies": {
+    "routers": {
+      "BindingsDocs": {
+        "project": "webgme-bindings",
+        "path": "node_modules/webgme-bindings/src/routers/BindingsDocs",
+        "mount": "bindings-docs"
+      }
+    }
+  }
+}
